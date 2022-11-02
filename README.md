@@ -9,8 +9,6 @@ Você precisa construir um sistema gerenciador de tarefas, onde você poderá ca
 
 Essa lista de tarefas precisa ter um CRUD, ou seja, deverá permitir a você obter os registros, criar, salvar e deletar esses registros.
 
-A sua aplicação deverá ser do tipo Web API ou MVC, fique a vontade para implementar a solução que achar mais adequado.
-
 A sua classe principal, a classe de tarefa, deve ser a seguinte:
 
 ![Diagrama da classe Tarefa](diagrama.png)
